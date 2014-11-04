@@ -4,7 +4,7 @@
  <img src="https://img.alipay.com/sys/personalprod/style/mc/btn-index.png">姓名：刘声凤 支付宝账号：loyinonline@163.com<br>
  <b>虽然我不喝咖啡，但可以给我可爱的儿子购买一份小礼物^_^</b>
  <br>
- <img src="https://mobilecodec.alipay.com/show.htm?code=ap3a7hfknwx5gaascf&picSize=M"width="150px">
+ 请手机扫描<img src="https://mobilecodec.alipay.com/show.htm?code=ap3a7hfknwx5gaascf&picSize=M"width="150px">打赏下。
  欢迎访问我的个人网站 <a href="http://www.loyin.net">http://www.loyin.net</a>
 <div class="detail TextContent" id="p_fullcontent">
 <p>
