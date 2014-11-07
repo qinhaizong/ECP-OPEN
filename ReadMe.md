@@ -14,3 +14,5 @@
 	主界面：</p><p><img src="http://static.oschina.net/uploads/space/2014/1104/142716_YfP8_105457.png" alt=""></p><p>
 	功能菜单：</p><p><img src="http://static.oschina.net/uploads/space/2014/1104/142840_1SZD_105457.png" alt=""></p>
 		</div>
+#如何部署？
+需要将doc/数据库备份中的buck文件在postgresql管理工具里进行恢复到数据库ecp。
