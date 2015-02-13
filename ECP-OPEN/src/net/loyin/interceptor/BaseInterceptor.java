@@ -33,7 +33,7 @@ public abstract class BaseInterceptor implements Interceptor {
 		
 		BaseController ctrl=(BaseController)ai.getController();
 		String uid=ctrl.getCurrentUserId();
-		String uri=ctrl.getRequest().getRequestURI();
+		String uri=ctrl.getRequest().getServletPath();
 		//登录超时控制
 		if(StringUtils.isEmpty(uid)&&(!ArrayUtils.contains(power_url_exclude,uri))){
 			if((uri.contains(".json")))
