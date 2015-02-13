@@ -1,4 +1,5 @@
 #ECP
+#版权所有者：龙影(刘声凤)及北京朗天鑫业信息工程技术有限公司
 <img src="http://www.loyin.net/s/img/head.jpg" title="">
 <img src="http://www.loyin.net/s/img/myson.png" title="儿子：果果 百天照" height="100px">
  <img src="https://img.alipay.com/sys/personalprod/style/mc/btn-index.png">姓名：刘声凤 支付宝账号：loyinonline@163.com<br>
